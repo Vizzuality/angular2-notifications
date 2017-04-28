@@ -18,8 +18,7 @@ export * from './simple-notifications/services/notifications.service';
 
 @NgModule({
   imports: [
-      CommonModule,
-      BrowserAnimationsModule
+      CommonModule
   ],
   declarations: [
       SimpleNotificationsComponent,
